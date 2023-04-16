@@ -2,3 +2,6 @@
 ***From the Web Development Bootcamp**
 
 ... more detailed README coming...
+
+## Prerequisites & Tech Stack
+* Bootstrap 3
